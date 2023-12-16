@@ -25,7 +25,7 @@ print(model1.coef_)
 print(model1.intercept_)
 plt.scatter(x, y)
 plt.plot(x,model1.predict(x),linestyle='dotted')
-
+#mohemmmed mohyub hol
 model1.predict([[2030]])
 model1.predict([[2002]])
 
